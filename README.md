@@ -13,10 +13,10 @@ ii Display an appropriate message based on the following rules:
 
 3. 3_input.java : taking input in java
 4. 4_Q_IsAPrimeNo.java : 
-1. You've to check whether a given number is prime or not.
-2. Take a number "t" as input representing count of input numbers to be tested.
-3. Take a number "n" as input "t" number of times.
-4. For each input value of n, print "prime" if the number is prime and "not prime" otherwise.
+i. You've to check whether a given number is prime or not.
+ii. Take a number "t" as input representing count of input numbers to be tested.
+iii. Take a number "n" as input "t" number of times.
+iv. For each input value of n, print "prime" if the number is prime and "not prime" otherwise.
 Input Format
 A number t
 A number n
