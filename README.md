@@ -29,3 +29,5 @@ not prime
 .. t number of times
 
 ![nstp](https://user-images.githubusercontent.com/53565103/200323557-0d05c7d8-bf3f-4461-b6c1-d41b8e7d08d3.png)
+
+5. 5_array_intro.java : declare, initialize and print array
